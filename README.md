@@ -1,4 +1,4 @@
-# SimpleLogint
+# SimpleLogin
 
 <h5>Tools:</h5>
 <b>Language: </b> Javascript (nodejs)
